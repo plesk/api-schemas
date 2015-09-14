@@ -1,0 +1,36 @@
+--- agent_input.svg.orig        2014-04-22 09:56:22.000000000 +0700
++++ agent_input.svg     2014-04-22 09:57:05.000000000 +0700
+@@ -12,7 +12,13 @@
+   function loadSVG() {
+     efBoxes = getElementsByClassName('box', document.getElementsByTagName('g'));
+     eSvg = document.getElementById('svg');
+-    expandAll();
++    collapseAll();
++    var nodes = [1, 2, 1, 2];
++    var nodeId = '';
++    for(var i = 0; i < nodes.length; i++) {
++        nodeId += '_' + nodes[i];
++        show(nodeId);
++    }
+   }
+
+ ////////// getElementsByClassName(string, nodeList)
+
+--- agent_output.svg.orig       2014-04-22 09:56:31.000000000 +0700
++++ agent_output.svg    2014-04-22 09:57:23.000000000 +0700
+@@ -12,7 +12,13 @@
+   function loadSVG() {
+     efBoxes = getElementsByClassName('box', document.getElementsByTagName('g'));
+     eSvg = document.getElementById('svg');
+-    expandAll();
++    collapseAll();
++    var nodes = [1, 2, 1, 1, 1];
++    var nodeId = '';
++    for(var i = 0; i < nodes.length; i++) {
++        nodeId += '_' + nodes[i];
++        show(nodeId);
++    }
+   }
+
+ ////////// getElementsByClassName(string, nodeList)
+
