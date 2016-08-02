@@ -1,7 +1,7 @@
 {
   "name": "Plesk XML-RPC API Schemes",
   "tagline": "Interactive schemes for Plesk XML-RPC API",
-  "body": "### 1.6.7.0\r\n* [Request Packet](https://raw.githubusercontent.com/plesk/api-schemas/master/1.6.7.0/agent_input.svg)\r\n* [Response Packet](https://raw.githubusercontent.com/plesk/api-schemas/master/1.6.7.0/agent_output.svg)",
+  "body": "### 1.6.7.0\r\n* [Request Packet](latest/agent_input.svg)\r\n* [Response Packet](latest/agent_output.svg)",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
