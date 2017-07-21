@@ -1,0 +1,8 @@
+title: Plesk XML-RPC API Schemes
+description: Interactive schemes for Plesk XML-RPC API
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
