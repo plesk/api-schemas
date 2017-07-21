@@ -1282,6 +1282,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_1")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_cname</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1304,6 +1305,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_3")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_phone</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1315,6 +1317,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_4")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_fax</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1337,6 +1340,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_6")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_address</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1348,6 +1352,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_7")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_city</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1359,6 +1364,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_8")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_state</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1370,6 +1376,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_9")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_pcode</text>
 <text class='visible' x='5' y='41'>type: zipcodeType</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1381,6 +1388,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_10")' onmouseout='makeHidden("_
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_country</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -1392,6 +1400,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_3_1_1_1_1_11")' onmouseout='makeHidden("_
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>send_announce</text>
 <text class='visible' x='5' y='41'>type: boolean</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2507,6 +2516,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_1")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_cname</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2529,6 +2539,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_3")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_phone</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2540,6 +2551,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_4")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_fax</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2562,6 +2574,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_6")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_address</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2573,6 +2586,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_7")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_city</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2584,6 +2598,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_8")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_state</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2595,6 +2610,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_9")' onmouseout='makeHidden("_1
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_pcode</text>
 <text class='visible' x='5' y='41'>type: zipcodeType</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2606,6 +2622,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_10")' onmouseout='makeHidden("_
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>admin_country</text>
 <text class='visible' x='5' y='41'>type: string</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
@@ -2617,6 +2634,7 @@ onmouseover='makeVisible("_1_2_1_2_1_1_7_1_1_1_1_11")' onmouseout='makeHidden("_
 <text class='hidden' visibility='hidden' x='5' y='41'>abstract: 0</text>
 <text class='strong' x='5' y='27'>send_announce</text>
 <text class='visible' x='5' y='41'>type: boolean</text>
+<text x='5' y='59'>0..1</text>
 <line class='connection' x1='-35' y1='23' x2='0' y2='23'/>
 </g>
 
