@@ -1,6 +1,10 @@
-### 1.6.9.0 (latest)
+### 1.6.9.1 (latest)
 * [Request Packet](latest/agent_input.svg)
 * [Response Packet](latest/agent_output.svg)
+
+### 1.6.9.0
+* [Request Packet](1.6.9.0/agent_input.svg)
+* [Response Packet](1.6.9.0/agent_output.svg)
 
 ### 1.6.8.0
 * [Request Packet](1.6.8.0/agent_input.svg)
